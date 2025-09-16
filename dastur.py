@@ -1,0 +1,4 @@
+# print()
+# input()
+# o'zgaruvchi
+# 
